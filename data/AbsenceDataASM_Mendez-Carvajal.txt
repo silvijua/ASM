@@ -1,0 +1,63 @@
+1 Ocú Ocú Herrera Absent Absent
+2 Las Animas Ocú Herrera Absent Absent
+3 La Polonia Ocú Herrera Absent Absent
+4 El Calabazal Ocú Herrera Present Absent
+5 Camarón Ocú Herrera Present Absent
+6 Tijeras Ocú Herrera Present Absent
+7 Quebrada Limón Ocú Herrera Present Absent
+8 Llano Grande Ocú Herrera Present Absent
+9 Llano Hato Ocú Herrera Present Absent
+10 Santa Mónica Ocú Herrera Present Absent
+11 La Chavarría Ocú Herrera Present Absent
+12 Aguas Buenas Ocú Herrera Present Absent
+13 Cerro Noneca Ocú Herrera Present Absent
+14 Cerro Lavadero Ocú Herrera Present Absent
+15 Cerro Comején Ocú Herrera Present Absent
+16 Los Carates Ocú Herrera Present Absent
+17 El Cercado Ocú Herrera Present Absent
+18 Las Manuelas Ocú Herrera Present Absent
+19 Pedernal Ocú Herrera Present Absent
+20 Santo Domingo Ocú Herrera Present Absent
+21 Los Higos Ocú Herrera Present Absent
+22 Potuguilla Ocú Herrera Present Absent
+23 Los Asientos Ocú Herrera Present Absent
+24 Parita Parita Herrera Present Absent
+25 Cabuya Parita Herrera Present Absent
+26 Candelaria Parita Herrera Present Absent
+27 Portobelillo Parita Herrera Present Absent
+28 Cerro Tigre Parita Herrera Present Absent
+29 Queb. Grande Parita Herrera Present Absent
+30 Río Parita Parita Herrera Present Absent
+31 Llano La Cruz Parita Herrera Present Absent
+32 Río Viejo Parita Herrera Present Absent
+33 Las Gardenias Parita Herrera Present Absent
+34 Los Lajones Parita Herrera Present Absent
+35 Queb. Carrizal Parita Herrera Present Absent
+36 Valencia Parita Herrera Present Absent
+37 Chepo Las Minas Herrera Present Absent
+38 El Ñuco Las Minas Herrera Present Absent
+39 Sonadora Las Minas Herrera Present Absent
+40 Tres Puntas Las Minas Herrera Present Absent
+41 Alto del Higo Las Minas Herrera Present Absent
+42 R. Forestal El Montuoso Las Minas Herrera Present Absent
+43 Queb. Chuérala Las Minas Herrera Present Absent
+44 Caras Pintadas Las Minas Herrera Present Absent
+45 Río La Villa Las Minas Herrera Present Absent
+46 Río Tebario Las Minas Herrera Present Absent
+47 Los Pozos Las Minas Herrera ? Absent
+48 La Arena Las Minas Herrera ? Absent
+49 El Calabacito Macaracas Herrera ? Absent
+50 La Mesa Macaracas Herrera ? Absent
+Western Region
+51 Ponuga Mariato Veraguas Present Absent
+52 Tebario Mariato Veraguas Present Absent
+53 Llano de Catival Mariato Veraguas Present Absent
+54 Malena Mariato Veraguas Present Absent
+55 La Loma Mariato Veraguas Present ?
+61 Río Pavo Mariato Veraguas Present Absent
+62 Q. MIDA Mariato Veraguas Present Absent
+63 Playa Malena Mariato Veraguas Present Absent
+87 Cacao Tonosí Los Santos Present Absent
+91 Los Pozos Tonosí Los Santos Present Absent
+115 El Sesteadero Pocrí Los Santos ? Absent
+116 Río Mensabé Pocrí Los Santos ? Absent
